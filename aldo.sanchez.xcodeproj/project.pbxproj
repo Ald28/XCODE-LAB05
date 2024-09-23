@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		39BE3C6A2CA113A9005AFC9B /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 39BE3C692CA1139C005AFC9B /* .gitignore */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		39BE3C492CA0FEA4005AFC9B /* aldo.sanchez.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = aldo.sanchez.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		39BE3C692CA1139C005AFC9B /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -45,6 +50,7 @@
 		39BE3C402CA0FEA4005AFC9B = {
 			isa = PBXGroup;
 			children = (
+				39BE3C692CA1139C005AFC9B /* .gitignore */,
 				39BE3C4B2CA0FEA4005AFC9B /* aldo.sanchez */,
 				39BE3C4A2CA0FEA4005AFC9B /* Products */,
 			);
@@ -122,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				39BE3C6A2CA113A9005AFC9B /* .gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
